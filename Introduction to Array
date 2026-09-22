@@ -1,0 +1,19 @@
+Definition:
+     An array is a fundamental and linear data structure that stores a collection of elements of the same data type  in contiguous memory locations
+
+Array Declaration:
+     Syntax:
+             Data_Type variable_Name [];   Here "[]" denotes object primitive.
+                      or
+             Data_Type [] variable_Name;   Here "[]" denotes object primitive.
+
+Creating an Array:
+     Data_Type variable_Name [] = new Data_Type [size of the array];
+                              or
+     Data_Type variable_Name [] = {_,_,_,_,_,_};
+
+Array Initialization:
+     1) Direct Method:
+               Data_Type variable_Name [] = {_,_,_,_,_,_};
+     2) Using Scanner Class:
+               Data_Type variable_Name [] = new Data_Type [size of the array];
